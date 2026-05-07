@@ -14,4 +14,4 @@ All of our code is found in the "TRANS-01_Project5_CIVE202_Spring2026.ipnyb" fil
 3. To see our complete methods and how we did this project, along with a complete discussion of our tresults, please refer to the "".
 4. To see a complete timesheet on how our team spent our time on this project, refer to the "Project5_Timesheet.pdf".
 5. To see the raw data files, refer to the "Cleaned_TGSIM_Foggy_Bottom.csv" file
-6. To see our client prompt from NDOT, refer to the "Project #5 - Client Prompts and Information.docx"
+6. To see our client prompt from NDOT, refer to the "Project #5 - Client Prompts and Information.pdf"
